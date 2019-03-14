@@ -3,8 +3,6 @@ Python--Faster-Way
 
 Python: Faster Way
 
-
-
 Creating a new test: 
 --------------------
 
